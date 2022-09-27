@@ -42,7 +42,7 @@ public class HotelMenu {
                     case 5:
                         System.out.println("how many quantity");
                         int z = s.nextInt();
-                        total = (15 * z) + total;
+                        total = (15 * z) + total; 
                         break;
                     case 6:System.out.println("total bill="+total);
                         break;
